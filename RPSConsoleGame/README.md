@@ -1,1 +1,0 @@
-#RPSGame This is a rock, paper, scissors game that was created as a first project practicing javascript. it is a console game which you can play by opening the html file in browser or inputting game() in the console if it didn't do so on its own.
